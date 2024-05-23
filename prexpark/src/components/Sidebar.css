@@ -1,0 +1,32 @@
+.sidebar {
+  width: 250px;
+  background-color: #FFFFFF;
+  padding: 20px;
+  border-right: 1px solid #E6EBF3;
+  height: 100vh;
+}
+
+.sidebar-header {
+  margin-bottom: 20px;
+}
+
+.sidebar-header h1 {
+  margin: 0;
+  color: #0038A8;
+}
+
+.sidebar-header span {
+  display: block;
+  margin-top: 10px;
+  color: #1B1B1B;
+}
+
+.sidebar-nav a {
+  display: block;
+  padding: 10px 0;
+  color: #1B1B1B;
+}
+
+.sidebar-nav a:hover {
+  color: #0038A8;
+}
